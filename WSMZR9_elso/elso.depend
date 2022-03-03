@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1646308168 source:d:\me\számítógép grafika\c_sdk_220203\elso\main.c
+	"cuboid.h"
+	<stdio.h>
+
+1645702464 d:\me\számítógép grafika\c_sdk_220203\elso\include\circle.h
+
+1644822271 source:d:\me\számítógép grafika\c_sdk_220203\elso\circle.c
+	"circle.h"
+	<math.h>
+
+1646308238 d:\me\számítógép grafika\c_sdk_220203\elso\include\cuboid.h
+
+1646307072 source:d:\me\számítógép grafika\c_sdk_220203\elso\cuboid.c
+	"cuboid.h"
+	<math.h>
+
